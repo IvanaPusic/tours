@@ -5,6 +5,9 @@
 Tours app is an app made for travelers.
 They can see general info for each place and mark them as 'not interested'.
 
+## Link to an app
+https://ivanapusic.github.io/tours/
+
 ## Technologies
 
 - React 18
