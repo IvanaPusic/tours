@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { Loading, Tours } from './components';
-const url = 'https://course-api.com/react-tours-project';
+const url = 'https://www.course-api.com/react-tours-project';
 
 const App = () => {
   const [isLoading, setIsLoading] = useState(true);
